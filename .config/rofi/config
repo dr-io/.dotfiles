@@ -1,0 +1,11 @@
+!Rofi config
+rofi.width: 700
+rofi.padding: 530
+rofi.fullscreen: true
+rofi.terminal: termite
+rofi.lines: 5
+rofi.font: Hack 30
+!rofi.color-window: argb:D9181818, argb:aa181818, #801f1f1f
+!rofi.color-normal: argb:0095C7AE, #c0b18b, argb:0095C7AE, argb:55101218, #c0b18b
+rofi.separator-style: none
+rofi.hide-scrollbar: true
