@@ -14,7 +14,7 @@ ctrl + alt + Delete
 	termite -e htop
 
 super + a
-	bash /home/dan/.scripts/wal-feh.sh "/home/dan/Pictures/Wallpapers/WQHD"
+	bash /home/dan/.scripts/wal-feh.sh "/home/dan/Pictures/Wallpapers/WQHD" -o "$HOME/.config/bspwm/bspwmrc"
 
 # make sxhkd reload its configuration files:
 super + Escape
